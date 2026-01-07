@@ -1,0 +1,13 @@
+# Python 虚拟环境
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+
+# 前端依赖和编译文件
+node_modules/
+.next/
+dist/
+build/
+.DS_Store
